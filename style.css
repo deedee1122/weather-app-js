@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  display: grid;
+  place-content: center ;
+  min-height: 100vh;
+}
+
+#app{
+    width: 350px;
+    height: 600px;
+    border: 2px solid green;
+    border-radius: 12px;
+}
